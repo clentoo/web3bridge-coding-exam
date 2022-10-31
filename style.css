@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  justify-content: space-evenly;
+  width: 30%;
+  /* background-color: bisque; */
+  font-family: Georgia, "Times New Roman", Times, serif;
+  align-items: center;
+  padding: 5px;
+  
+}
+#userCard > p{
+  margin: 20px;
+  border: 1px solid gray;
+}
